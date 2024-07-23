@@ -1,8 +1,19 @@
-# React + Vite
+Este es un proyecto simple de un carrito de compras implementado con React y configurado con Vite. 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# CARACTERISTICAS
+Listado de productos disponibles.
+Filtrar los productos.
+Agregar productos al carrito.
+Ver los productos en el carrito.
+Eliminar productos del carrito.
 
-Currently, two official plugins are available:
+# INSTALACION
+Clona este repositorio en tu máquina local.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+git clone https://github.com/juan982610/Shopping-Cart.git
+
+# INSTALAR LAS DEPENDENCIAS DEL PROYECTO
+npm install
+
+# INICIA EL PROYECTO
+npm run dev
